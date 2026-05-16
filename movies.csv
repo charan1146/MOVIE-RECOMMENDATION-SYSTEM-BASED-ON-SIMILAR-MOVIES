@@ -1,19 +1,54 @@
 movie,genre
-Avengers,Action
+Avengers Endgame,Action
+Avengers Infinity War,Action
 Iron Man,Action
+Iron Man 2,Action
+Iron Man 3,Action
+Captain America The First Avenger,Action
+Captain America The Winter Soldier,Action
+Captain America Civil War,Action
 Thor,Action
-Captain America,Action
-Black Panther,Action
+Thor Ragnarok,Action
 Doctor Strange,Action
-Spider-Man,Action
-Batman Begins,Action
+Black Panther,Action
+Spider Man Homecoming,Action
+Spider Man Far From Home,Action
+Spider Man No Way Home,Action
 The Dark Knight,Action
-Superman,Action
+Batman Begins,Action
+The Dark Knight Rises,Action
+Man of Steel,Action
 Wonder Woman,Action
+Aquaman,Action
+Justice League Snyder Cut,Action
 John Wick,Action
+John Wick Chapter 2,Action
+John Wick Chapter 3,Action
+John Wick Chapter 4,Action
 Mad Max Fury Road,Action
-Mission Impossible,Action
 Gladiator,Action
+Troy,Action
+300,Action
+Mission Impossible,Action
+Mission Impossible Fallout,Action
+Mission Impossible Ghost Protocol,Action
+Top Gun,Action
+Top Gun Maverick,Action
+Edge of Tomorrow,Action
+Kingsman The Secret Service,Action
+Kingsman The Golden Circle,Action
+Die Hard,Action
+Taken,Action
+The Equalizer,Action
+Nobody,Action
+Extraction,Action
+Fast Five,Action
+Fast and Furious 7,Action
+Baby Driver,Action
+Casino Royale,Action
+Skyfall,Action
+No Time To Die,Action
+The Bourne Identity,Action
 Titanic,Romance
 The Notebook,Romance
 La La Land,Romance
@@ -21,59 +56,177 @@ Pride and Prejudice,Romance
 Me Before You,Romance
 A Walk to Remember,Romance
 Before Sunrise,Romance
+Before Sunset,Romance
+Before Midnight,Romance
 The Fault in Our Stars,Romance
 Crazy Rich Asians,Romance
 Twilight,Romance
+The Vow,Romance
+Dear John,Romance
+Safe Haven,Romance
+The Time Travelers Wife,Romance
+About Time,Romance
+Love Actually,Romance
+Notting Hill,Romance
+Pretty Woman,Romance
+10 Things I Hate About You,Romance
+To All The Boys Ive Loved Before,Romance
+The Proposal,Romance
+Crazy Stupid Love,Romance
+Silver Linings Playbook,Romance
+One Day,Romance
+The Choice,Romance
+Midnight Sun,Romance
+Letters to Juliet,Romance
+The Best of Me,Romance
 Conjuring,Horror
+The Conjuring 2,Horror
 Insidious,Horror
 Annabelle,Horror
 The Nun,Horror
 It,Horror
+It Chapter Two,Horror
 Hereditary,Horror
 Smile,Horror
 The Exorcist,Horror
 A Quiet Place,Horror
 Get Out,Horror
+Us,Horror
+The Ring,Horror
+Sinister,Horror
+The Babadook,Horror
+Midsommar,Horror
+Scream,Horror
+Halloween,Horror
+The Texas Chainsaw Massacre,Horror
+Saw,Horror
+Saw II,Horror
+Paranormal Activity,Horror
+Lights Out,Horror
+Evil Dead,Horror
+The Blair Witch Project,Horror
+Orphan,Horror
+The Visit,Horror
+Doctor Sleep,Horror
+Bird Box,Horror
 Interstellar,Sci-Fi
 Inception,Sci-Fi
 The Matrix,Sci-Fi
+The Matrix Reloaded,Sci-Fi
+The Matrix Revolutions,Sci-Fi
 Avatar,Sci-Fi
+Avatar The Way of Water,Sci-Fi
 Dune,Sci-Fi
+Dune Part Two,Sci-Fi
 Blade Runner 2049,Sci-Fi
 Arrival,Sci-Fi
 Gravity,Sci-Fi
 The Martian,Sci-Fi
-Star Wars,Sci-Fi
+Star Wars A New Hope,Sci-Fi
+Star Wars The Empire Strikes Back,Sci-Fi
+Star Wars Revenge of the Sith,Sci-Fi
+Rogue One,Sci-Fi
+Ex Machina,Sci-Fi
+Ready Player One,Sci-Fi
+Minority Report,Sci-Fi
+I Am Legend,Sci-Fi
+Looper,Sci-Fi
+District 9,Sci-Fi
+Elysium,Sci-Fi
+Pacific Rim,Sci-Fi
+Oblivion,Sci-Fi
+Source Code,Sci-Fi
+The Creator,Sci-Fi
+Alien,Sci-Fi
+Aliens,Sci-Fi
 Toy Story,Animation
+Toy Story 2,Animation
+Toy Story 3,Animation
+Toy Story 4,Animation
 Frozen,Animation
+Frozen II,Animation
 Coco,Animation
 Finding Nemo,Animation
+Finding Dory,Animation
 Inside Out,Animation
 Kung Fu Panda,Animation
+Kung Fu Panda 2,Animation
 Shrek,Animation
+Shrek 2,Animation
 Moana,Animation
 The Lion King,Animation
 Up,Animation
+Soul,Animation
+Cars,Animation
+Ratatouille,Animation
+WALL E,Animation
+Big Hero 6,Animation
+How to Train Your Dragon,Animation
+Zootopia,Animation
+Tangled,Animation
+Encanto,Animation
+Luca,Animation
+Brave,Animation
+Despicable Me,Animation
+Minions,Animation
 3 Idiots,Comedy
 The Hangover,Comedy
+The Hangover Part II,Comedy
 Superbad,Comedy
 Home Alone,Comedy
+Home Alone 2,Comedy
 Jumanji,Comedy
 Deadpool,Comedy
-Mr Bean,Comedy
+Deadpool 2,Comedy
+Mr Bean Holiday,Comedy
 Central Intelligence,Comedy
 Free Guy,Comedy
 Rush Hour,Comedy
-Harry Potter,Fantasy
-Lord of the Rings,Fantasy
-The Hobbit,Fantasy
-Fantastic Beasts,Fantasy
-Pirates of the Caribbean,Fantasy
-Narnia,Fantasy
+Rush Hour 2,Comedy
+Rush Hour 3,Comedy
+The Mask,Comedy
+Dumb and Dumber,Comedy
+Ace Ventura Pet Detective,Comedy
+The Intern,Comedy
+21 Jump Street,Comedy
+22 Jump Street,Comedy
+We Are The Millers,Comedy
+Horrible Bosses,Comedy
+The Other Guys,Comedy
+Step Brothers,Comedy
+White Chicks,Comedy
+Grown Ups,Comedy
+Yes Man,Comedy
+Bruce Almighty,Comedy
+Liar Liar,Comedy
+Harry Potter and the Sorcerers Stone,Fantasy
+Harry Potter and the Chamber of Secrets,Fantasy
+Harry Potter and the Prisoner of Azkaban,Fantasy
+Harry Potter and the Goblet of Fire,Fantasy
+Harry Potter and the Order of the Phoenix,Fantasy
+Harry Potter and the Half Blood Prince,Fantasy
+Harry Potter and the Deathly Hallows Part 1,Fantasy
+Harry Potter and the Deathly Hallows Part 2,Fantasy
+Lord of the Rings The Fellowship of the Ring,Fantasy
+Lord of the Rings The Two Towers,Fantasy
+Lord of the Rings The Return of the King,Fantasy
+The Hobbit An Unexpected Journey,Fantasy
+The Hobbit The Desolation of Smaug,Fantasy
+The Hobbit The Battle of the Five Armies,Fantasy
+Fantastic Beasts and Where to Find Them,Fantasy
+Pirates of the Caribbean The Curse of the Black Pearl,Fantasy
+Pirates of the Caribbean Dead Mans Chest,Fantasy
+Narnia The Lion the Witch and the Wardrobe,Fantasy
 Aladdin,Fantasy
 Beauty and the Beast,Fantasy
 Maleficent,Fantasy
-Percy Jackson,Fantasy
+Percy Jackson The Lightning Thief,Fantasy
+The Chronicles of Narnia Prince Caspian,Fantasy
+Pan's Labyrinth,Fantasy
+Charlie and the Chocolate Factory,Fantasy
+Edward Scissorhands,Fantasy
+The Shape of Water,Fantasy
+Fantastic Mr Fox,Fantasy
 The Shawshank Redemption,Drama
 Forrest Gump,Drama
 The Green Mile,Drama
@@ -84,6 +237,26 @@ The Pursuit of Happyness,Drama
 Parasite,Drama
 Oppenheimer,Drama
 The Godfather,Drama
+The Godfather Part II,Drama
+The Social Network,Drama
+A Beautiful Mind,Drama
+Good Will Hunting,Drama
+Dead Poets Society,Drama
+The Pianist,Drama
+Schindlers List,Drama
+12 Angry Men,Drama
+American Beauty,Drama
+Requiem for a Dream,Drama
+There Will Be Blood,Drama
+No Country for Old Men,Drama
+The Wolf of Wall Street,Drama
+The Departed,Drama
+Shutter Island,Drama
+Spotlight,Drama
+Birdman,Drama
+Marriage Story,Drama
+The Revenant,Drama
+The Truman Show,Drama
 Fast and Furious,Thriller
 Gone Girl,Thriller
 Shutter Island,Thriller
@@ -94,6 +267,16 @@ Zodiac,Thriller
 The Girl with the Dragon Tattoo,Thriller
 Now You See Me,Thriller
 Tenet,Thriller
+Nightcrawler,Thriller
+Black Swan,Thriller
+The Prestige,Thriller
+Memento,Thriller
+The Sixth Sense,Thriller
+The Invisible Guest,Thriller
+Enemy,Thriller
+Phone Booth,Thriller
+Fractured,Thriller
+The Game,Thriller
 Your Name,Anime
 Demon Slayer Mugen Train,Anime
 Spirited Away,Anime
@@ -104,3 +287,14 @@ A Silent Voice,Anime
 Howls Moving Castle,Anime
 Princess Mononoke,Anime
 Akira,Anime
+My Neighbor Totoro,Anime
+Ponyo,Anime
+The Wind Rises,Anime
+Grave of the Fireflies,Anime
+Castle in the Sky,Anime
+Kikis Delivery Service,Anime
+Paprika,Anime
+Ghost in the Shell,Anime
+The Boy and the Heron,Anime
+Wolf Children,Anime
+```

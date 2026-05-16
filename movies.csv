@@ -1,0 +1,106 @@
+movie,genre
+Avengers,Action
+Iron Man,Action
+Thor,Action
+Captain America,Action
+Black Panther,Action
+Doctor Strange,Action
+Spider-Man,Action
+Batman Begins,Action
+The Dark Knight,Action
+Superman,Action
+Wonder Woman,Action
+John Wick,Action
+Mad Max Fury Road,Action
+Mission Impossible,Action
+Gladiator,Action
+Titanic,Romance
+The Notebook,Romance
+La La Land,Romance
+Pride and Prejudice,Romance
+Me Before You,Romance
+A Walk to Remember,Romance
+Before Sunrise,Romance
+The Fault in Our Stars,Romance
+Crazy Rich Asians,Romance
+Twilight,Romance
+Conjuring,Horror
+Insidious,Horror
+Annabelle,Horror
+The Nun,Horror
+It,Horror
+Hereditary,Horror
+Smile,Horror
+The Exorcist,Horror
+A Quiet Place,Horror
+Get Out,Horror
+Interstellar,Sci-Fi
+Inception,Sci-Fi
+The Matrix,Sci-Fi
+Avatar,Sci-Fi
+Dune,Sci-Fi
+Blade Runner 2049,Sci-Fi
+Arrival,Sci-Fi
+Gravity,Sci-Fi
+The Martian,Sci-Fi
+Star Wars,Sci-Fi
+Toy Story,Animation
+Frozen,Animation
+Coco,Animation
+Finding Nemo,Animation
+Inside Out,Animation
+Kung Fu Panda,Animation
+Shrek,Animation
+Moana,Animation
+The Lion King,Animation
+Up,Animation
+3 Idiots,Comedy
+The Hangover,Comedy
+Superbad,Comedy
+Home Alone,Comedy
+Jumanji,Comedy
+Deadpool,Comedy
+Mr Bean,Comedy
+Central Intelligence,Comedy
+Free Guy,Comedy
+Rush Hour,Comedy
+Harry Potter,Fantasy
+Lord of the Rings,Fantasy
+The Hobbit,Fantasy
+Fantastic Beasts,Fantasy
+Pirates of the Caribbean,Fantasy
+Narnia,Fantasy
+Aladdin,Fantasy
+Beauty and the Beast,Fantasy
+Maleficent,Fantasy
+Percy Jackson,Fantasy
+The Shawshank Redemption,Drama
+Forrest Gump,Drama
+The Green Mile,Drama
+Joker,Drama
+Fight Club,Drama
+Whiplash,Drama
+The Pursuit of Happyness,Drama
+Parasite,Drama
+Oppenheimer,Drama
+The Godfather,Drama
+Fast and Furious,Thriller
+Gone Girl,Thriller
+Shutter Island,Thriller
+Prisoners,Thriller
+Se7en,Thriller
+The Silence of the Lambs,Thriller
+Zodiac,Thriller
+The Girl with the Dragon Tattoo,Thriller
+Now You See Me,Thriller
+Tenet,Thriller
+Your Name,Anime
+Demon Slayer Mugen Train,Anime
+Spirited Away,Anime
+Weathering With You,Anime
+Suzume,Anime
+Jujutsu Kaisen 0,Anime
+A Silent Voice,Anime
+Howls Moving Castle,Anime
+Princess Mononoke,Anime
+Akira,Anime
